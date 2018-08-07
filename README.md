@@ -7,3 +7,7 @@
 ## Saved
 *In the "Saved" tab, make a note or delete any saved article
 *Once a note is made, it will show up in the "Notes" section. Any note can be deleted at any time.
+
+Made by Eric Liu, March 2018.
+Github: https://github.com/n0rthf4ce
+Email: eric.liu85@gmail.com
